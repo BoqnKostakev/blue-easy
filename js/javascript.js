@@ -17,7 +17,7 @@ $(document).ready(function() {
 	});
 });
 
-// LAME BUT WORKS :D
+// LAME BUT WORKS
 $(document).ready(function() {
 	var n = '#portf-resp-nav', no = 'nav-open';
 	$('#portf-nav-menu').on('click', function() {
